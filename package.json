@@ -1,0 +1,23 @@
+{
+  "name": "leap",
+  "version": "1.0.0",
+  "description": "A npm package for determining if a given year is a leap year",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentga/leap_year.git"
+  },
+  "keywords": [
+    "leap",
+    "year"
+  ],
+  "author": "Gina Valentino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valentga/leap_year/issues"
+  },
+  "homepage": "https://github.com/valentga/leap_year#readme"
+}
